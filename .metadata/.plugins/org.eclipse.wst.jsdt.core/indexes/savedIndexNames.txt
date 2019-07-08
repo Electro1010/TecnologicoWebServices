@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/home/dante/Mi carpeta compartida/Codigos fuente/Maven/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1311092528.index
